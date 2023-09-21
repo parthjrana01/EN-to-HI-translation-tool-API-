@@ -4,7 +4,7 @@ We have used a Hugging Face model for English to Hindi language translation. Plu
 Model :- 
 ## Helsinki-NLP/opus-mt-en-hi model
 
-source: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi
+model: https://huggingface.co/Helsinki-NLP/opus-mt-en-hi
 
 Dataset:-
 Source: https://huggingface.co/datasets/cfilt/iitb-english-hindi
